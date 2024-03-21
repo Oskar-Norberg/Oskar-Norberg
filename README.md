@@ -4,11 +4,13 @@
 </div>
 
 💬 Currently:
-- Learning graphics programming using OpenGL.
-- Working on my game <a href="https://github.com/Oskar-Norberg/Godot-Golf">Godot-Golf</a>.
+<ul>
+  <li>Learning graphics and shader programming using OpenGL.</li>
+  <li> Working on my game <a href="https://github.com/Oskar-Norberg/Godot-Golf">Godot-Golf</a>.</li>
+</ul>
 
 <div align="center">
-  <p><b>Let me show you what I've been working on:</b></p>
+  <p><b>Some projects I've been working on:</b></p>
   <a href="https://github.com/Oskar-Norberg/Godot-Golf"><img src="img/godot_golf.png" width="312px"></a>
   <a href="https://github.com/Oskar-Norberg/Simple_Java_Messaging"><img src="img/java_messaging.png" width="312px"></a>
 </div>
