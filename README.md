@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Well met! I'm Oskar Norberg</h1>
-  <h4>I'm an aspring gameplay-programmer with an interest in low-level graphics programming and tool-development</h3>
+  <h4>I'm an aspring game programmer with an interest in low-level graphics programming and tool-development</h3>
 </div>
 
 💬 Currently:
