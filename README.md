@@ -6,7 +6,7 @@
 💬 Currently:
 <ul>
   <li>Learning graphics and shader programming using OpenGL.</li>
-  <li> Working on my game <a href="https://github.com/Oskar-Norberg/Godot-Golf">Godot-Golf</a>.</li>
+  <li> Working on my game <a href="https://github.com/Oskar-Norberg/Godot-Golf">Godot-Golf</a>, check it out on <a href="https://oskar-norberg.itch.io/godot-golf">itch.io</a>!</li>
 </ul>
 
 <div align="center">
