@@ -13,6 +13,8 @@
   <p><b>Some projects I've been working on:</b></p>
   <a href="https://github.com/Oskar-Norberg/Godot-Golf"><img src="img/godot_golf.png" width="312px"></a>
   <a href="https://github.com/Oskar-Norberg/Simple_Java_Messaging"><img src="img/java_messaging.png" width="312px"></a>
+  <br>
+  <a href="https://oskar-norberg.itch.io/godot-golf"><img src="img/godot_golf_itch.png" width="312px"></a>
 </div>
 
 <br>
