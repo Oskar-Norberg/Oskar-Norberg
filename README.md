@@ -21,13 +21,7 @@
 
 <b>Languages and Tools:</b><br>
 <div>
-  <img src="svg/c.svg" width="42px">
-  <img src="svg/csharp.svg" width="42px">
-  <img src="svg/cpp.svg" width="42px">
-  <img src="svg/java.svg" width="42px">
-  <img src="svg/python.svg" width="42px">
-  <img src="svg/godot.svg" width="42px">
-  <img src="svg/unity.svg" width="42px">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,godot,unity,git" />
 </div>
 
 
