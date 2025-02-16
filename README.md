@@ -5,7 +5,8 @@
 
 💬 Currently:
 <ul>
-  <li>Learning graphics and shader programming using OpenGL. Currently working on my <a href="https://github.com/Oskar-Norberg/OpenGL-Renderer">C++ renderer</a>.</li>
+  <li>Studying game programming at Futuregames.</li>
+  <li>Developing a <a href="https://github.com/Oskar-Norberg/DiegeticMainMenu">Diegetic Main Menu Unity package</a> for quick prototyping of main menus.</li>
 </ul>
 
 <div align="center">
@@ -22,6 +23,12 @@
 <b>Languages and Tools:</b><br>
 <div>
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,godot,unity,git" />
+</div>
+
+<br>
+
+<div>
+  <sub><i>Yes, I use perforce changelog conventions on my commits. No, you cannot stop me. 🙃</i></sub>
 </div>
 
 
