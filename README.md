@@ -6,8 +6,8 @@
 💬 Currently:
 <ul>
   <li>Studying game programming at Futuregames.</li>
-  <li>Learning c++.</li>
-  <li>Developing various <a href="https://github.com/Oskar-Norberg/DiegeticMainMenu">Unity Packages</a> for quick prototyping and learning purposes.</li>
+  <li>Learning C++.</li>
+  <li>Developing various <a href="https://github.com/Oskar-Norberg/UnityPackages">Unity Packages</a> for quick prototyping and learning purposes.</li>
 </ul>
 
 <div align="center">
